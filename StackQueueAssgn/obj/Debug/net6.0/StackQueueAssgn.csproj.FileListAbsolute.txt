@@ -1,0 +1,15 @@
+C:\Users\vgj24\source\repos\StackQueueAssgn\bin\Debug\net6.0\StackQueueAssgn.exe
+C:\Users\vgj24\source\repos\StackQueueAssgn\bin\Debug\net6.0\StackQueueAssgn.deps.json
+C:\Users\vgj24\source\repos\StackQueueAssgn\bin\Debug\net6.0\StackQueueAssgn.runtimeconfig.json
+C:\Users\vgj24\source\repos\StackQueueAssgn\bin\Debug\net6.0\StackQueueAssgn.dll
+C:\Users\vgj24\source\repos\StackQueueAssgn\bin\Debug\net6.0\ref\StackQueueAssgn.dll
+C:\Users\vgj24\source\repos\StackQueueAssgn\bin\Debug\net6.0\StackQueueAssgn.pdb
+C:\Users\vgj24\source\repos\StackQueueAssgn\obj\Debug\net6.0\StackQueueAssgn.csproj.AssemblyReference.cache
+C:\Users\vgj24\source\repos\StackQueueAssgn\obj\Debug\net6.0\StackQueueAssgn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vgj24\source\repos\StackQueueAssgn\obj\Debug\net6.0\StackQueueAssgn.AssemblyInfoInputs.cache
+C:\Users\vgj24\source\repos\StackQueueAssgn\obj\Debug\net6.0\StackQueueAssgn.AssemblyInfo.cs
+C:\Users\vgj24\source\repos\StackQueueAssgn\obj\Debug\net6.0\StackQueueAssgn.csproj.CoreCompileInputs.cache
+C:\Users\vgj24\source\repos\StackQueueAssgn\obj\Debug\net6.0\StackQueueAssgn.dll
+C:\Users\vgj24\source\repos\StackQueueAssgn\obj\Debug\net6.0\ref\StackQueueAssgn.dll
+C:\Users\vgj24\source\repos\StackQueueAssgn\obj\Debug\net6.0\StackQueueAssgn.pdb
+C:\Users\vgj24\source\repos\StackQueueAssgn\obj\Debug\net6.0\StackQueueAssgn.genruntimeconfig.cache
